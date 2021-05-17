@@ -1,0 +1,48 @@
+.heading{
+   box-shadow: 5px 5px 18px darkblue;
+   font-size: 25px;
+   width: 100%;
+  font-style: italic;
+  font-weight: bold;
+  margin: 0%;
+}
+.heading_div{
+    background-color: white;
+    color: turquoise;
+    float: none;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px grey;
+    font-size: 35px;
+}
+.heading_div2{
+    background-color: orange;
+    font-size: 20px;
+    
+}
+.heading_div2:hover{
+    font-size: 30px;
+    background-color: yellow;
+}
+.result_para_tag{
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Newsreader', serif;
+    font-size: 20px;
+}
+canvas{
+    border: 5px solid lightblue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 150px;
+    align-items: center;
+}
